@@ -1,3 +1,2 @@
 ﻿# go_todo
-
-# Небольшой Todo на golang.
+Небольшой Todo на go.
